@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6c3d3e6b-b402-43eb-94d7-7af8a060ffb5" name="CMTPRG04-6" url="http://145.24.222.51:8000">
+        <fileTransfer rootFolder="/home/ubuntu-0973013" accessType="SFTP" host="145.24.222.51" port="22" sshConfigId="c4470702-8eef-4aa7-b31b-3468aaeb04f3" sshConfig="ubuntu-0973013@145.24.222.51:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
